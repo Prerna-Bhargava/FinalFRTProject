@@ -3,6 +3,7 @@
 In my final Future Ready Talent project, I have created a educational website where students or working professionals can easily choose between a wide ranges of courses available and learn on their own pace at an affordable cost. This website is created using HTML, CSS, JavaScript to help people find best courses in various domains like language, software, communication and much more. I have created many pages like Home, About us, contact us, Courses, gallery for people to easily navigate, explore and trust my website. Its a complete package where students can find everything they need in an online course.
 
 Azure static web app link - https://ambitious-tree-0c5416310.2.azurestaticapps.net/
+
 Project demo video url - https://youtube.com/watch?v=d_TwP_wYx-M
 
 ![FRT1](https://user-images.githubusercontent.com/90512462/198110406-a27f703c-a1cd-46c1-a246-53eed07aa36e.png)
