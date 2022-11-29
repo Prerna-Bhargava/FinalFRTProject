@@ -18,6 +18,8 @@ In my final Future Ready Talent project, I have created a educational website wh
 2. Azure Static Web Apps - Azure Static Web Apps is used to automatically build and deploy full stack web apps to Azure from a code repository(I have used github repository to create static web app).
 
 #### Deployment Screenshot:
+![Screenshot (78)](https://user-images.githubusercontent.com/90512462/204641297-807daa5e-0ac9-43aa-8212-fc5e03793d96.png)
+
 ![Screenshot (75)](https://user-images.githubusercontent.com/90512462/203102678-d66a6137-6762-487b-bdb0-ce1df85c26fc.png)
 
 #### Website Screenshots:
