@@ -2,7 +2,7 @@
 
 Azure static web app link - https://ambitious-tree-0c5416310.2.azurestaticapps.net/
 
-Project demo video url - https://youtube.com/watch?v=d_TwP_wYx-M
+Project demo video url - https://www.youtube.com/watch?v=sLcx4VYPm4w
 
 ## Industry:
 Ed-Tech
@@ -14,7 +14,8 @@ Learn with us website
 In my final Future Ready Talent project, I have created a educational website where students or working professionals can easily choose between a wide ranges of courses available and learn on their own pace at an affordable cost. This website is created using HTML, CSS, JavaScript to help people find best courses in various domains like language, software, communication and much more. I have created many pages like Home, About us, contact us, Courses, gallery for people to easily navigate, explore and trust my website. Its a complete package where students can find everything they need in an online course.
 
 ## Primary Azure Technology
-Static Web Apps, Web Apps
+1. Web Apps - Web Apps quickly build, deploy, and scale enterprise-grade web, mobile, and API apps running on any platform.
+2. Azure Static Web Apps - Azure Static Web Apps is used to automatically build and deploy full stack web apps to Azure from a code repository(I have used github repository to create static web app).
 
 #### Deployment Screenshot:
 ![Screenshot (75)](https://user-images.githubusercontent.com/90512462/203102678-d66a6137-6762-487b-bdb0-ce1df85c26fc.png)
